@@ -12,7 +12,6 @@
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
     "preact": "^10.25.3",
-    "preact-render-to-string": "^6.5.12",
-    "tsx": "^4.19.2"
+    "preact-render-to-string": "^6.5.12"
   }
 }
